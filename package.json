@@ -1,0 +1,24 @@
+{
+  "name": "gripe-app",
+  "version": "1.0.0",
+  "description": "I kept forgetting things that annoyed me — a coworker pattern, a company screwing me over repeatedly, situations I kept tolerating. By the time I actually needed to do something about it, I had no record. Just a feeling.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mallya-m/gripe-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/mallya-m/gripe-app/issues"
+  },
+  "homepage": "https://github.com/mallya-m/gripe-app#readme"
+}
